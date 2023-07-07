@@ -7,9 +7,9 @@ This Terraform project creates a VPC on AWS.
 - Terraform installed (version 1.5.2)
 - AWS account with appropriate credentials
 
-![VPC-terraform](https://github.com/saisamala/Terraform-AWS-Projects/assets/34151152/c16054b0-f99e-4317-8ad5-31697c8e9f96)
-
 ## Getting Started
+
+![VPC-terraform](https://github.com/saisamala/Terraform-AWS-Projects/assets/34151152/c16054b0-f99e-4317-8ad5-31697c8e9f96)
 
 Follow these steps to create the VPC:
 
